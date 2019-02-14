@@ -12,6 +12,7 @@ flask-sqlalchemy = "*"
 flask-bcrpyt = "*"
 flask-bcrypt = "*"
 flask-login = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.7"
