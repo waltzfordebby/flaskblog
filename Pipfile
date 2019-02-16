@@ -11,6 +11,9 @@ flask-sqlalchemy = "*"
 flask-wtf = "*"
 flask-bcrypt = "*"
 flask-login = "*"
+pep8 = "*"
+flask-pillow = "*"
+pillow = "*"
 
 [requires]
 python_version = "2.7"
